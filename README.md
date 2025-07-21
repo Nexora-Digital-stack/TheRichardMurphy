@@ -1,17 +1,17 @@
-# 👜 Richard Murphy - Leather E-Commerce Website
+# Richard Murphy - Leather E-Commerce Website
 
 A modern, responsive leather shoe e-commerce website built using **React**, **Vite**, **Tailwind CSS**, and **ShadCN UI** — designed for showcasing premium products with a sleek UI and essential e-commerce features.  
-⚠️ _Note: This is a **frontend-only** demo project — no backend or database functionality is included._
+_Note: This is a **frontend-only** demo project — no backend or database functionality is included._
 
 ---
 
-## 🔗 Live Demo
+## Live Demo
 
 > Coming soon or [insert link if deployed]
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 - **Frontend**: React 18 (with Vite)
 - **Styling**: Tailwind CSS, ShadCN/UI, Lucide Icons
@@ -22,17 +22,17 @@ A modern, responsive leather shoe e-commerce website built using **React**, **Vi
 
 ---
 
-## 📦 Features
+## Features
 
-- 🌐 Home, About, Products, and Contact pages
-- 🧾 Admin Panel layout (static)
-- 🛒 Product Listings & Cart system (frontend-only)
-- 🧩 Component-based architecture with reusability in mind
-- 🎨 Fully responsive layout with clean, modern design
+- Home, About, Products, and Contact pages
+- Admin Panel layout (static)
+- Product Listings & Cart system (frontend-only)
+- Component-based architecture with reusability in mind
+- Fully responsive layout with clean, modern design
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 
@@ -56,7 +56,7 @@ The app will be available at `http://localhost:5173`
 
 ---
 
-## 🧪 Build for Production
+## Build for Production
 
 ```bash
 npm run build
@@ -70,7 +70,7 @@ npm run preview
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 /src
@@ -83,7 +83,7 @@ npm run preview
 
 ---
 
-## 👤 Author
+## Author
 
 **Udit Saxena**  
 GitHub: [@UditSax3na](https://github.com/UditSax3na)
