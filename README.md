@@ -7,7 +7,7 @@ _Note: This is a **frontend-only** demo project — no backend or database funct
 
 ## Live Demo
 
-> Coming soon or [insert link if deployed]
+> [Link](https://the-richard-murphy.vercel.app/)
 
 ---
 
@@ -41,8 +41,8 @@ Make sure you have **Node.js (v18+)** and **npm** or **yarn** installed.
 ### Installation
 
 ```bash
-git clone https://github.com/UditSax3na/ecomleatherwebsite.git
-cd ecomleatherwebsite
+git clone https://github.com/Nexora-Digital-stack/TheRichardMurphy.git
+cd TheRichardMurphy
 npm install   # or yarn install
 ```
 
